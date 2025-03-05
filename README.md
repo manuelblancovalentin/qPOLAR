@@ -3,15 +3,13 @@
 ### Introduction
 
 <!-- Add logos -->
-<div style="display: block;">
- <img src="res/logo_cropped.png" alt="logo" width="300" style="float: left; margin: 10px;"/> 
 
-<br/>
+ <img src="res/logo_cropped.png" alt="logo" width="50%" style="display: block; margin-left: auto; margin-right: auto;"/> 
+
+
 <b>qPOLAR</b> introduces a novel framework for analyzing neural network robustness by treating bit-flip propagation as a quantum-inspired coupling problem. Unlike traditional adversarial robustness techniques that rely solely on gradient-based perturbations, qPOLAR develops a mechanistic approach to mapping how bit-flip perturbations couple and propagate through network layers.
 
-</div>
 
-<br/><br/><br/>
 
 1. Quantum-inspired mathematical framework network vulnerability analysis
 2. Comprehensive perturbation coupling tensor to quantify how inter-layer bit-flip interaction
